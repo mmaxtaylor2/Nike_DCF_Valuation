@@ -1,17 +1,37 @@
 Nike Intrinsic Valuation – Summary Memo
-Purpose
-The purpose of this analysis is to estimate Nike’s intrinsic equity value using a discounted cash flow framework and assess whether the current market valuation reflects realistic assumptions around long-term growth, margin recovery, and cost of capital.
+
+1. Purpose
+
+The purpose of this analysis is to estimate Nike’s intrinsic equity value using a discounted cash flow framework and assess whether the current market valuation 
+reflects realistic assumptions around long-term growth, margin recovery, and cost of capital.
+
 Valuation Approach
-Nike was valued using a multi-stage DCF model incorporating a forward operating forecast and a terminal value derived from a perpetual growth assumption. The forecast reflects normalized revenue growth and operating margins informed by historical performance and industry context. Free cash flows were discounted using a market-based WACC reflecting current interest rate conditions.
+
+Nike was valued using a multi-stage DCF model incorporating a forward operating forecast and a terminal value derived from a perpetual growth assumption. 
+The forecast reflects normalized revenue growth and operating margins informed by historical performance and industry context. Free cash flows were discounted using a 
+market-based WACC reflecting current interest rate conditions.
+
 Base Case Results
-Under base case assumptions, the model produces an intrinsic equity value that is sensitive to long-term margin normalization and discount rate inputs. The base case reflects moderate growth and conservative profitability recovery rather than peak-cycle performance.
+
+Under base case assumptions, the model produces an intrinsic equity value that is sensitive to long-term margin normalization and discount rate inputs. 
+The base case reflects moderate growth and conservative profitability recovery rather than peak-cycle performance.
+
 Sensitivity & Risk Considerations
+
 Sensitivity analysis shows that valuation outcomes are most affected by:
 Terminal operating margin assumptions
 Weighted average cost of capital
 Long-term growth expectations
+
 Given Nike’s long-duration cash flows, small changes in WACC result in material changes in equity value. This highlights the importance of cost-of-capital assumptions in a higher-rate environment.
+
 Market Context
-The intrinsic valuation was benchmarked against public comparables and current market pricing. While Nike benefits from brand strength and global scale, market valuation appears to price in relatively optimistic long-term assumptions, leaving limited margin for error under downside scenarios.
+
+The intrinsic valuation was benchmarked against public comparables and current market pricing. While Nike benefits from brand strength and global scale, market 
+valuation appears to price in relatively optimistic long-term assumptions, leaving limited margin for error under downside scenarios.
+
 Conclusion
-This analysis suggests that Nike’s valuation is driven less by near-term performance and more by long-term assumptions around profitability and capital costs. As a result, valuation risk is concentrated in terminal assumptions rather than forecast-period execution, making the stock particularly sensitive to macro and rate-driven changes in investor expectations.
+
+This analysis suggests that Nike’s valuation is driven less by near-term performance and more by long-term assumptions around profitability
+and capital costs. As a result, valuation risk is concentrated in terminal assumptions rather than forecast-period execution, making the stock particularly 
+sensitive to macro and rate-driven changes in investor expectations.
